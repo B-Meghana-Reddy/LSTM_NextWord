@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.envrc
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Colab Notebooks temporary checkpoints
+*.ipynb-kernel.json
+
+# Logs and cache
+*.log
+*.sqlite3
+*.db
+.cache/
+*.bak
+*.swp
+
+# Pytest cache
+.pytest_cache/
+
+# Package builds
+dist/
+build/
+*.egg-info/
+
+# TensorBoard logs
+runs/
+logs/
+
+# Mac folder settings
+*.DS_Store
+
+# Google Colab Mount Point
+/content/drive/
+
+# Model checkpoints and weights
+*.h5
+*.hdf5
+*.ckpt
+checkpoint/
